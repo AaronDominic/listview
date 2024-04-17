@@ -159,6 +159,7 @@ public class CustomAdapter extends BaseAdapter {
 
 ## OUTPUT
 
+![Screenshot 2024-04-17 232106](https://github.com/AaronDominic/listview/assets/143015231/8dbb72a4-5447-4933-bb83-5a8a484412d3)
 
 
 
